@@ -21,7 +21,7 @@
 
 ## Icon
 
-*Website for image processing.*
+*Website for icon generation or icon resource.*
 
 * [Icomoon](https://icomoon.io/app/#/select) - Create icon font or SVG.
 
