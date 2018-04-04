@@ -5,8 +5,8 @@
     - [Icon](#icon)
     - [Sharing](#sharing)
     - [Download](#download)
-    - [Draw Flowchart](#drawflowchart)
-    - [CSS](#css)
+    - [Draw Flowchart](#draw-flowchart)
+    - [CSS](#css)
     
 - - -
 
