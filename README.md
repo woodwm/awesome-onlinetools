@@ -30,6 +30,9 @@
 *Website for file or image sharing.*
 
 * [Snaggy](https://snag.gy/) - Sharing screenshots.
+* [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB.
+* [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
+* [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
 
 ## Download
 
