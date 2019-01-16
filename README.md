@@ -20,7 +20,7 @@
 * [TinyPNG](https://tinypng.com/) - Image compression for PNG and JPEG.
 * [Smart Resize](https://www.smartresize.com/) - Online batch image resize and crop tool.
 * [Bigjpg](http://bigjpg.com) - Enlarge pictures with AI.
-
+* [Squoosh](https://squoosh.app/) - Image compression web app supporting JPG、PNG and WebP (Google).
 
 ## Icon
 
