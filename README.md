@@ -37,7 +37,8 @@
 * [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.
 * [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
 * [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
-
+* [File 2 File](http://file2file.online/) - Free peer-to-peer file transfer.
+* [Cow Transfer(奶牛快传)](https://cowtransfer.com/) - File sharing, 2GB, 3 days for unregistered user.
 
 ## Download
 
