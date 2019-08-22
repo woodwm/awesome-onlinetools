@@ -22,6 +22,7 @@
 * [Bigjpg](http://bigjpg.com) - Enlarge pictures with AI.
 * [Squoosh](https://squoosh.app/) - Image compression web app supporting JPG、PNG and WebP (Google).
 * [remove bg](https://www.remove.bg/) - Remove image background.
+* [搞定设计智能抠图](https://www.gaoding.com/koutu) - Remove image background, support JPG and PNG < 10MB (Chinese).
 
 ## Icon
 
