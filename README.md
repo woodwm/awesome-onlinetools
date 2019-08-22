@@ -21,6 +21,7 @@
 * [Smart Resize](https://www.smartresize.com/) - Online batch image resize and crop tool.
 * [Bigjpg](http://bigjpg.com) - Enlarge pictures with AI.
 * [Squoosh](https://squoosh.app/) - Image compression web app supporting JPG、PNG and WebP (Google).
+* [remove bg](https://www.remove.bg/) - Remove image background.
 
 ## Icon
 
