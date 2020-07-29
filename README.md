@@ -42,7 +42,7 @@
 * [File 2 File](http://file2file.online/) - Free peer-to-peer file transfer.
 * [Cow Transfer(奶牛快传)](https://cowtransfer.com/) - File sharing, 2GB, 3 days for unregistered user.
 
-<s> [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.<s>
+<s> [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.</s>
     
 ## Download
 
