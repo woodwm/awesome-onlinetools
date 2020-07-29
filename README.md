@@ -22,6 +22,7 @@
 * [Bigjpg](http://bigjpg.com) - Enlarge pictures with AI.
 * [Squoosh](https://squoosh.app/) - Image compression web app supporting JPG、PNG and WebP (Google).
 * [remove bg](https://www.remove.bg/) - Remove image background.
+* [Slazzer](https://www.slazzer.com/) - Remove image background automatically and personally.
 * [搞定设计智能抠图](https://www.gaoding.com/koutu) - Remove image background, support JPG and PNG < 10MB (Chinese).
 
 ## Icon
@@ -36,12 +37,13 @@
 *Website for file or image sharing.*
 
 * [Snaggy](https://snag.gy/) - Sharing screenshots.
-* [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.
 * [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
 * [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
 * [File 2 File](http://file2file.online/) - Free peer-to-peer file transfer.
 * [Cow Transfer(奶牛快传)](https://cowtransfer.com/) - File sharing, 2GB, 3 days for unregistered user.
 
+<s> [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.<s>
+    
 ## Download
 
 *Website for downloading images or videos.*
