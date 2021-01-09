@@ -38,11 +38,13 @@
 
 * [Snaggy](https://snag.gy/) - Sharing screenshots.
 * [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
+* [Smash](https://fromsmash.com) - File sharing, unlimited, 14 days.
 * [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
+* [Send Anywhere](https://send-anywhere.com/) - Transfer files in real time or by link (10 GB, 2 Days)
 * [File 2 File](http://file2file.online/) - Free peer-to-peer file transfer.
 * [Cow Transfer(奶牛快传)](https://cowtransfer.com/) - File sharing, 2GB, 3 days for unregistered user.
 
-<s> [Firefox Send](https://send.firefox.com/) - Encrypted file sharing, limit 1GB, 1 day or certain downloads.</s>
+
     
 ## Download
 
@@ -83,3 +85,8 @@
 *Website for coding.*
 
 * [alldocs](https://alldocs.app/) - Convert text to other formats based on pandoc.
+
+## English writing
+
+* [Lose the Very](https://www.losethevery.com) - Word suggestion without using very.
+
