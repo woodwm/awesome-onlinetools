@@ -36,7 +36,7 @@
 
 *Website for file or image sharing.*
 
-* [Snaggy](https://snag.gy/) - Sharing screenshots.
+* [snipboard.io]((https://snipboard.io/) - Sharing screenshots.
 * [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
 * [Smash](https://fromsmash.com) - File sharing, unlimited, 14 days.
 * [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
@@ -50,14 +50,14 @@
 
 *Website for downloading images or videos.*
 
-* [Saveig](https://saveig.com/) - Download instagram photos and videos.
+* [SaveInsta](https://saveinsta.app/) - Download instagram photos and videos.
 
 
 ## Draw Flowchart
 
 *Website for drawing Flowchart.*
 
-* [draw.io](https://www.draw.io) - Draw flowchart online, support saving to Google Drive, dropbox, Github, OneDrive.
+* [draw.io](https://app.diagrams.net/) - Draw flowchart online, support saving to Google Drive, dropbox, Github, OneDrive.
 
 
 ## CSS
