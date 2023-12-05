@@ -36,7 +36,7 @@
 
 *Website for file or image sharing.*
 
-* [snipboard.io]((https://snipboard.io/) - Sharing screenshots.
+* [snipboard.io](https://snipboard.io/) - Sharing screenshots.
 * [transfer.sh](https://transfer.sh/) - File sharing, limit 10GB, 14 days.
 * [Smash](https://fromsmash.com) - File sharing, unlimited, 14 days.
 * [BitSend](https://bitsend.jp/?setLang=en) - File sharing, unlimited, 14 days.
